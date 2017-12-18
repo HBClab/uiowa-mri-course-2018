@@ -19,6 +19,7 @@
 - http://www.brainmapping.org/NITP/images/Summer2015Slides/Demos/K-SpaceDemos/KSpaceDemos.html : JK: another k space link
 - http://events7.mediasite.com/Mediasite/Play/37504d321e43421893f8ce4b0a1719a81d?catalog=9fb9dc4c-d2bb-4f35-a172-6d8d804f3a66 : JK: long physics video
 - http://www.med.harvard.edu/aanlib/basicsMR.html : 2014 HW#1 link
+- https://fmrif.nimh.nih.gov/course/2017/05_Vinai_20170612 : JK: intro mri/physics
 
 ### **fMRI physics + BOLD contrast**
 - https://fmrif.nimh.nih.gov/course/2017/08_Dan_20170619 : JK: what's neuronal vs. what's not
@@ -46,7 +47,7 @@
 - http://www.mathworks.com/matlabcentral/fileexchange/42997-dicom-to-nifti-converter--nifti-tool-and-viewer?focused=8628744&tab=function : 2014 HW#3 link
 - https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dinfo.html : 2014 HW#3 link
 - https://www.youtube.com/watch?v=IKDLEhetUsg : 2014 HW#3 link (explain 3dinfo)
-
+- https://nifti.nimh.nih.gov/nifti-1/documentation/faq#Q1 : JK: nifti faq
 ### **Image processing basics lab**
 - http://nipy.org/nibabel/coordinate_systems.html : JK: understanding coordinates and affines
 - https://github.com/poldrack/fmri-handbook-2e-code/blob/master/notebooks/Chapter2-ImageProcessing/Chapter2-ImageProcessing.ipynb : JK: poldrack notebook on similar subject
@@ -76,6 +77,7 @@
 - http://mindhive.mit.edu/node/116 : 2014 HW#4 link
 - http://mindhive.mit.edu/node/117 : 2014 HW#4 link
 - http://mriqc.readthedocs.io/en/latest/about.html : JK: mriqc functional images
+- https://fmrif.nimh.nih.gov/course/2017/07_Dan_20170619: JK: lecture about noise sources
 ### **fMRI preprocessing: smoothing**
 - http://imaging.mrc-cbu.cam.ac.uk/imaging/PrinciplesSmoothing : 2014 HW#4 link
 - http://andysbrainblog.blogspot.com/2012/06/smoothing-in-afni.html : 2014 HW#4 link
@@ -89,6 +91,7 @@
 - https://www.youtube.com/watch?v=fLuT6In4neE : 2014 HW#6 link melodic
 
 ### **Putting it all together for different designs**
+- http://neuropowertools.org/ : JK: do a power analysis and/or design your experiment
 
 ### **Putting it all together with batch scripting and documenting your steps**
 
@@ -150,6 +153,8 @@
 ### **Task analysis: putting it all together**
 
 ### **Introduction to Nipype and workflows**
+- https://miykael.github.io/nipype_tutorial/ : JK: nipype tutorial
+
 
 ### **Resting state functional connectivty**
 - http://www2.psychology.uiowa.edu/classes/31231/Readings/Cole_Frontiers_2008.pdf : 2014 link
@@ -158,10 +163,13 @@
 - https://youtu.be/rQtDQ-qYEpw : 2014 HW#11 group melodic
 - http://www2.psychology.uiowa.edu/classes/31231/Readings/SmithProc%20Natl%20Acad%20Sci%20USA2009.pdf : 2014 HW#11 link
 - http://www2.psychology.uiowa.edu/classes/31231/Readings/VincentNature2007.pdf : 2014 HW#13 link
+- https://fmrif.nimh.nih.gov/course/2017/17_Catie_20170712 : JK: resting state lecture
+- https://fmrif.nimh.nih.gov/course/2017/18_Gotts_20170714 : JK: another resting state lecture
 
 ### **Reporting your methods and results; final project working session**
 - http://mvpa.blogspot.com/2013/04/caret-plot-nifti-image.html : 2014 caret
 - https://www.youtube.com/playlist?list=PLylb26b_6ntNmw0RM3_ncJXaKwDVOu8VS : 2014 tim's playlist caret
+- http://nilearn.github.io/plotting/index.html : JK: plotting with nilearn
 
 ### **Final project presentations**
 
@@ -169,3 +177,7 @@
 - https://neurostars.org/
 - https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=FSL
 - https://afni.nimh.nih.gov/afni/community/board/list.php?1
+
+### **OTHER**
+- https://github.com/poldrack/fmri-analysis-vm/blob/master/analysis/introduction/Introduction%20to%20notebooks%2C%20plotting%2C%20nilearn%2C%20nibabel%20and%20nipype.ipynb : JK: intro to jupyter and other topics
+- https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook : JK: jupyter notebook background
